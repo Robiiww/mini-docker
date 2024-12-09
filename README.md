@@ -1,0 +1,2 @@
+docker pull postgres:latest
+
